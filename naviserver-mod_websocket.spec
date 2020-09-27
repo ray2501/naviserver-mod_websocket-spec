@@ -4,7 +4,7 @@
 
 Summary:        NaviServer websocket module
 Name:           naviserver-mod_websocket
-Version:        0.1
+Version:        0.2
 Release:        1
 License:        MPL-1.1
 Group:          Productivity/Networking/Web/Servers
